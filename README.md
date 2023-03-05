@@ -29,11 +29,11 @@ Creating:
 
 5- WebServer EC2 t2.micro instance in Public Subnet 
 
-6- Security group for ec2 to allow http and https port 80,443 and diffrent one for mysql db to allow port 3306 
+6- Two Security group the first one for ec2 to allow http and https port 80,443 and the second for mysql db to allow port 3306 
 
 ## How to run
 
-run the following commands in order but make sure that you are in the right path 
+run the following commands in order but make sure that you are in the right path under
 /project
 
 1- terraform init
