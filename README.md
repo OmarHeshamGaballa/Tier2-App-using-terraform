@@ -7,7 +7,9 @@ Kubernetes, GitHub and much more
 
 ## Prerequisites:
 Installed Terraform
+
 Installed AWS CLI and Access to AWS Console with an AWS Account (not root account).
+
 GitHub Account
 
 ## Resources Used:
