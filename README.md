@@ -17,10 +17,15 @@ I have used [Terraform documentation](https://registry.terraform.io/providers/ha
 
 Creating:
 1- Custom VPC with CIDR 192.168.0.0/16.
+
 2- One Public Subnet with CIDR 192.168.1.0/24 .
+
 3- Two Private Subnets with CIDR 192.168.2.0/24 and 192.168.3.0/24 in different Availabilty Zones.
+
 4- RDS MySQL instance (micro) in subnet group consist of the two private subnet.
+
 5- WebServer EC2 t2.micro instance in Public Subnet 
+
 6- Security group for ec2 to allow http and https port 80,443 and diffrent one for mysql db to allow port 3306 
 
 ## How to run
