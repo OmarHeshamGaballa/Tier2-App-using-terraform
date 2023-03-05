@@ -18,6 +18,7 @@ I have used [Terraform documentation](https://registry.terraform.io/providers/ha
 ## Project Structure
 
 Creating:
+
 1- Custom VPC with CIDR 192.168.0.0/16.
 
 2- One Public Subnet with CIDR 192.168.1.0/24 .
