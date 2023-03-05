@@ -49,7 +49,7 @@ run the following commands in order but make sure that you are in the right path
 
 VPC and Subnets
 
-![image](https://user-images.githubusercontent.com/122731503/222960728-e3e6d6e2-6e32-4513-9ad2-3f0cb083e16d.png)
+![image](https://user-images.githubusercontent.com/122731503/222960951-d4183394-d180-40de-b379-5ed13147ed7c.png)
 ![image](https://user-images.githubusercontent.com/122731503/222960763-a0128830-b725-4d66-a2e1-fc8af87db6e5.png)
 
 WebServer
